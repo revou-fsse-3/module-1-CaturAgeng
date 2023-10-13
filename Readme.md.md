@@ -4,7 +4,7 @@
 
 ## My Profile
 
-![Catur Photo](assets/Catur.jpg)
+![Catur Photo](Assets/Catur.jpg)
 
 Saat ini saya adalah student dari Full Stack Software Engineering Batch 3 dari RevoU. Tujuan saya mengikuti program ini adalah untuk Switch Career. Sebelumnya saya sedang mengikuti pelatihan sebagai Aircraft Engineer, sehingga saya belum memiliki pengalaman sebagai Software Engineer. Akan tetapi saya sempat mendapatkan pelajaran mengenai pemrograman saat saya masih S1, dari sana saya mencoba untuk mendalami pemrograman dengan mengikuti Full Stack program yang diselenggarakan oleh RevoU.
 
