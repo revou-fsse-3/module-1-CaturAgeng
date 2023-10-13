@@ -25,5 +25,5 @@ Posisi saya dalam program ini adalah sebagai berikut :
 
 - Linkedin: [Catur Ageng](https://www.linkedin.com/feed/)
 
-- Instagram: [Catur Ageng](https://www.instagram.com/?hl=en)
+- Github: [CaturAgeng](https://github.com/CaturAgeng/caturageng.github.io)
 
