@@ -7,3 +7,9 @@ Assignment Example for Week 1 - Making a landing web page (Ekos Interior Design)
 - Style your form to align with My website's design.
 
 Layout : 
+
+[v] Nav, Header, Main, Section
+[v] text, text-area, submit button
+[v] radio/check box/select
+[v] using flex to centering element and to create navbar
+[v] media query
