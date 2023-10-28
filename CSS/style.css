@@ -40,8 +40,7 @@ nav {
   margin: auto;
   display: flex;
   line-height: 80px;
-  position: -webkit-sticky;
-  position: sticky;
+  position: fixed;
   top: 0;
   background: #F8F0E5;
   z-index: 1;
@@ -205,10 +204,6 @@ p {
   .list-card {
     width: 50%;
   }
-
-  video {
-    width: 80%;
-  }
 }
 /* Akhir Media Query */
 
@@ -231,6 +226,7 @@ ul {
   list-style: none;
 }
 
+/* Footer */
 .footer {
   background-color: #DAC0A3;
   padding: 70px 0;
